@@ -5,3 +5,8 @@
 - change recording keyword
 - save it to doc file functionality
 - switch short answers/ long answers mode
+
+### Issues
+- voice recognition doesn't work well sometimes, alternative libraries to ckeck
+https://aflorithmic.ai/
+https://huggingface.co/tasks/text-to-speech
